@@ -19,7 +19,7 @@ For this week's bonus content we learned about backend development essentials!
 - [The difference between linters and formatters](https://taiyr.me/what-is-the-difference-between-code-linters-and-formatters)
 - [TypeScript is a superset of Javascript](https://blog.scottlogic.com/2021/10/11/Capturing-Intent-with-TypeScript.html)
 - [Why Should You Use Typescript Over Javascript?](https://dev.to/shreyanshsheth/why-you-should-use-typescript-over-javascript-gkb)
-
+- TODO: Add Link for How to communicate through the different HTTP methods
 ## 🔗 Essentials
 
 - [What are promises?](https://javascript.info/promise-basics).
