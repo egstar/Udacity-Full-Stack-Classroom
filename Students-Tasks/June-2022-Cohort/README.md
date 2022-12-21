@@ -21,7 +21,7 @@ Here is a list of all the team members who worked on these tasks that wanted to 
 | Shimaa Adel     |         [Linkedin](https://www.linkedin.com/in/shemoadel/)         |
 | Shaymaa Hafez   |      [Linkedin](https://www.linkedin.com/in/oneworldlancer/)       |
 | Yousef Alaa     |        [Linkedin](https://www.linkedin.com/in/yousefalaa/)         |
-| Yousef Sabry    |       [Linkedin](https://www.linkedin.com/in/youssef-sabry/)       |
+
 
 ### 👑 Team Leads
 
@@ -29,7 +29,7 @@ Those wonderful team members took the leadership roles in their respective teams
 
 | Team             | Name               |                                 Links                                  |
 | ---------------- | ------------------ | :--------------------------------------------------------------------: |
-| Bad Cats         | Buhram Soliman     |            [Linkedin](https://www.linkedin.com/in/burham/)             |
+| Bad Cats         | Burham Soliman     |            [Linkedin](https://www.linkedin.com/in/burham/)             |
 | Vampire Unicorns | Youssef Sabry      |         [Linkedin](https://www.linkedin.com/in/youssef-sabry/)         |
 | Cool Rabbits     | Mohamed Alabasy    |        [Linkedin](https://www.linkedin.com/in/mohamed-alabasy/)        |
 | Happy Sushi      | Abdelmonem Mohamed | [Linkedin](https://www.linkedin.com/in/abdelmonem-darweesh-92a89010a/) |
